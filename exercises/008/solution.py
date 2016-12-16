@@ -1,2 +1,4 @@
 #!/usr/bin/python
-print("H\ne\nl\nl\no\n\nW\no\nr\nl\nd\n\n!")
+hey="Hello World !"
+for i in hey:
+	print(i)
